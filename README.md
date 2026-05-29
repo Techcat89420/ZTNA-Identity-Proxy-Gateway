@@ -9,7 +9,7 @@ In a traditional setup, any device on the local network can communicate directly
 
 ## Systems Architecture & Component Integration
 
-![ZTNA-Lab](ZTNA-LAB.png)
+![ZTNA-Lab](ZTNA-LAB1.png)
 
 The infrastructure components fit together to form a continuous verification loop, orchestrated over a secure software-defined overlay network:
 
